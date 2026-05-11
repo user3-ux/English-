@@ -1,0 +1,31 @@
+header{
+    height: 170x;
+    background-color:rgb(169, 169, 222);
+    padding: 25px;
+}
+h1{
+    text-align: center;
+    color:black;
+    font-size:antiquewhite 48x;
+}
+main{
+    background-color:silver;
+    height: 530x;
+    display: flex; 
+}
+div{
+
+    background-color:black;
+    width: 220px;
+    height: 440px;
+    justify-content: space-around;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    color:brown;
+    font-size: 30px;
+}
+ing{
+    width: 193;
+    height: 193px;    
+}
